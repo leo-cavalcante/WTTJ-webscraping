@@ -1,0 +1,57 @@
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+
+# Web Scraping "Welcome to the Jungle" website by Leo
+**Leonardo Cavalcante Araújo**
+
+*Data Analytics Full-Time FEB2021, Paris & February 22nd 2021*
+
+## Content
+- [Project Description](#project-description)
+- [Objective](#objective)
+- [Workflow](#workflow)
+- [Organization](#organization)
+- [Links](#links)
+
+<img src="data:image/png;base64,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" alt="Ironhack Logo" width="500"/>
+
+## Project Description
+Amidst the difficult context to find job during Covid-19 pandemic and because of all of the frustration that Job Search can provide, I decided to use a Data-Driven approach to help me structure my Job Search Strategy.
+
+Therefore, I decided to scrap my preferred Job Search Website : ["Welcome to the Jungle"](https://www.welcometothejungle.com/en/jobs?query=data%20analyst&page=1&aroundQuery=Paris%2C%20France&refinementList%5Boffice.district%5D%5B0%5D=Paris&refinementList%5Boffice.state%5D%5B0%5D=Ile-de-France&refinementList%5Boffice.country_code%5D%5B0%5D=FR) (WTTJ).
+
+The data scraped would be stored in 2 different databases:
+1. **Jobs**: one line per job position open and all the details related to it.
+2. **Companies**: one line per company offering a position in Data, with all the relevant details from this company page in the WTTJ website.
+
+## Objective
+Obtain exploitable data that could be used for analysis to help me guide in my Job search, by prioritizing the job references that corresponds the most to me and that provides me the most chance of succeeding.
+
+## Workflow
+First, it was necessary to get Jobs data and clean it from the Jobs Search:
+1. Web scraping ["Welcome to the Jungle - Data Analyst Jobs "](https://www.welcometothejungle.com/en/jobs?query=data%20analyst&page=1&aroundQuery=Paris%2C%20France&refinementList%5Boffice.district%5D%5B0%5D=Paris&refinementList%5Boffice.state%5D%5B0%5D=Ile-de-France&refinementList%5Boffice.country_code%5D%5B0%5D=FR) and storing it to *Jobs* dataframe. 
+2. Cleaning the Jobs dataframe.
+3. Export the Jobs table to SQL.
+4. Save data in a Pickle to avoid scraping everytime the session in Jupyter Notebook is restarted.
+
+Secondly, it was necessary to get Companies data and clean it for *every company* in the previous scraping:
+1. Web scraping the Jobs dataframe looping through each value of "https:/welcometothejungle.com/en/companies/" + Jobs\["organization_slug]. Then storing all data collected in the *Companies* datafram. 
+2. Cleaning the Companies dataframe.
+3. Export the Companies data to SQL.
+4. Save data in a Pickle to avoid scraping everytime the session in Jupyter Notebook is restarted.
+
+Third, it was necessary to formalize everything in functions so things could run smoothly by calling less than 10 functions.
+
+Lastly, it was time to analyze the results using Python, Pandas and data vizualization tools.
+
+## Organization
+- Repository "https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-3/" : you may find my 2 main Python codes stored as a Jupyter Notebook format, also the pickles stored for each database and the Jobs.csv.
+
+*PS.: individual project.*
+
+## Links
+Here you may find the relevant links for my repository, my main code  and presentation slides.
+
+[Jobs_and_Companies_vFinal](https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-3/Jobs_and_Companies_vFinal.ipynb)  
+[Another_way_of_scraping_Companies](https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-3/Another_way_of_scraping_Companies.ipynb)  
+[GitHub Repository](https://github.com/leo-cavalcante/data-ft-par-labs/tree/main/Projects/Week-3)  
+[Final Presentation - Google Slides](https://docs.google.com/presentation/d/1H91rL3dhN7dNDxZEJCj6XTysaTC8qrk_XPpgmEk8PXw/edit?usp=sharing)
