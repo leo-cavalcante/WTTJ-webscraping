@@ -12,7 +12,7 @@
 - [Organization](#organization)
 - [Links](#links)
 
-<img src="https://cdn.welcometothejungle.co/wttj-front/production/assets/images/social/logo_v2.png?v=478410c0b052c7b9fa53dc2b4206d041" alt="Welcome to the Jungle Logo" width="500"/>
+<img src="https://cdn.welcometothejungle.co/wttj-front/production/assets/images/social/logo_v2.png?v=478410c0b052c7b9fa53dc2b4206d041" alt="Welcome to the Jungle Logo" width="500" style="text-align:center"/>
 
 ## Project Description
 Amidst the difficult context to find job during Covid-19 pandemic and because of all of the frustration that Job Search can provide, I decided to use a Data-Driven approach to help me structure my Job Search Strategy.
